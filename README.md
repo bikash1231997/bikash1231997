@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bikash Mahapatra</h1>
 <h3 align="center">A passionate backed developer from India wanted to be Full stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bikash1231997&label=Profile%20views&color=0e75b6&style=flat" alt="bikash1231997" /> </p>
+<p align="left"> <a href="https://github.com/bikash1231997" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <spaer></spaer> <img src="https://komarev.com/ghpvc/?username=bikash1231997&label=Profile%20views&color=0e75b6&style=flat" alt="bikash1231997" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikash1231997" &theme=radical alt="bikash1231997" /></a> </p>
 
@@ -47,3 +48,12 @@
 <img src="https://raw.githubusercontent.com/bikash1231997/bikash1231997/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+<a href="https://github.com/bikash1231997">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bikash1231997&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bikash1231997&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bikash1231997&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bikash1231997&theme=blue_green" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bikash1231997&theme=blue_green" height="180em" />
+</div>
