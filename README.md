@@ -7,23 +7,21 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikash1231997" &theme=radical alt="bikash1231997" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bikashbalia" target="blank"><img src="https://img.shields.io/twitter/follow/bikashbalia?logo=twitter&style=for-the-badge" alt="bikashbalia" /></a> </p> -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bikash1231997&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash1231997&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=bikash1231997&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=bikash1231997&theme=gruvbox_light&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
- <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikash1231997&radius=16&theme=gruvbox_light&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-</div>
-
-
 - 🔭 I’m currently working on [Axelor Servises](https://github.com/axelor/axelor-open-suite)
 
 - 🌱 I’m currently learning **React and Frontend framework**
 
-- 💬 Ask me about **Java Spring**
+- 💬 Ask me about **Spring** **Java** **MySQL**
 
 - 📫 How to reach me **bikashmohapatra1997@gmail.com**
+  
+<div align="center">
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=bikash1231997&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash1231997&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bikash1231997&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bikash1231997&theme=gruvbox_light&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=bikash1231997&radius=16&theme=gruvbox_light&area=true&order=5" height="300" alt="activity-graph graph"  /> ->>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
