@@ -7,7 +7,7 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikash1231997" &theme=radical alt="bikash1231997" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/bikashbalia" target="blank"><img src="https://img.shields.io/twitter/follow/bikashbalia?logo=twitter&style=for-the-badge" alt="bikashbalia" /></a> </p> -->
-- 🔭 I’m currently working on [Axelor Servises](https://github.com/axelor/axelor-open-suite)
+- 🔭 I’m currently working on [Axelor Private Limited](https://axelor.com/) with [Axelor Servises](https://github.com/axelor/axelor-open-suite)
 
 - 🌱 I’m currently learning **React and Frontend framework**
 
